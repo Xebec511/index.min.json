@@ -1,19 +1,19 @@
 {
-  "name": "Anime3rb Repository",
-  "author": "Hammam",
+  "name": "Witanime Repository",
+  "author": "YourName",
   "version": 1,
   "extensions": [
     {
-      "name": "Anime3rb",
-      "pkg": "eu.anime3rb",
-      "apk": "https://anime3rb.com/aniyomi/anime3rb-v1.0.apk",
+      "name": "Witanime",
+      "pkg": "eu.witanime",
+      "apk": "https://yourserver.com/witanime-v1.0.apk",
       "lang": "ar",
       "version": "1.0",
       "nsfw": false,
       "sources": [
         {
-          "name": "Anime3rb",
-          "baseUrl": "https://anime3rb.com",
+          "name": "Witanime",
+          "baseUrl": "https://witanime.net",
           "lang": "ar"
         }
       ]
