@@ -1,0 +1,22 @@
+{
+  "name": "Anime3rb Repository",
+  "author": "Hammam",
+  "version": 1,
+  "extensions": [
+    {
+      "name": "Anime3rb",
+      "pkg": "eu.anime3rb",
+      "apk": "https://anime3rb.com/aniyomi/anime3rb-v1.0.apk",
+      "lang": "ar",
+      "version": "1.0",
+      "nsfw": false,
+      "sources": [
+        {
+          "name": "Anime3rb",
+          "baseUrl": "https://anime3rb.com",
+          "lang": "ar"
+        }
+      ]
+    }
+  ]
+}
